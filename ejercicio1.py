@@ -1,4 +1,4 @@
-# Python script by Diego Fagundez.
+# Python script by Diego Fagundez
 
 def palindromo(sentencia):
     sentenciaProcesada = sentencia.replace(" ", "").lower()
