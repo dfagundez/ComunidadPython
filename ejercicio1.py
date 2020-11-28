@@ -6,7 +6,7 @@ def palindromo(sentencia):
         sentenciaProcesadaInvertida = sentenciaProcesada[::-1]
         return print(sentenciaProcesada.lower() == sentenciaProcesadaInvertida.lower())
     except:
-        print("Debe ingresar un valor string para analizar")
+        print("Debe ingresar un valor tipo string para analizar")
 
 
 # Run script
